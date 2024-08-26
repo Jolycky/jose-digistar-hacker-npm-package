@@ -1,0 +1,25 @@
+{
+  "name": "jo-anagram-checker",
+  "version": "1.0.0",
+  "description": "An npm package to quickly check if two strings are anagrams of each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolycky/jose-digistar-hacker-npm-package.git"
+  },
+  "keywords": [
+    "anagram"
+  ],
+  "author": "Jose Bagus Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jolycky/jose-digistar-hacker-npm-package/issues"
+  },
+  "homepage": "https://github.com/Jolycky/jose-digistar-hacker-npm-package#readme",
+  "dependencies": {
+    "node": "^22.7.0"
+  }
+}
