@@ -1,6 +1,6 @@
 # jo-anagram-checker
 
-`jo-anagram-checker` is a simple and efficient Node.js package for checking if two strings are anagrams of each other.
+[`jo-anagram-checker`](https://www.npmjs.com/package/jo-anagram-checker) is a simple and efficient Node.js package for checking if two strings are anagrams of each other.
 
 ## Features
 
